@@ -1,0 +1,14 @@
+export const ABOUT_HOME_URI = "aboutUs";
+export const PRODUCTS_SERVICES_URI = "services";
+export const HOME_URI = "home";
+export const SAFETY = "safety";
+export const AUTONOMY = "autonomy";
+export const PIT = "pit";
+export const PROJECT_MANAGEMENT = "project";
+export const OPERATION = "operation";
+export const PROCESS = "process";
+export const OUR_SERVICES = "ourServices";
+export const CONTACT_US = "contact";
+export const MOBILE = "MOBILE";
+export const LAPTOP = "Laptop";
+export const COMPANY = "Company";

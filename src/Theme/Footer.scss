@@ -1,0 +1,47 @@
+.footer {
+    height: 20rem;    
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;   
+    position: relative;   
+}
+
+.footer-mobile {
+    height: 35rem;    
+    width: 120%;
+    background-color: black;
+    color: white;
+    text-align: center;   
+    position: relative;  
+    left: -2rem; 
+}
+
+.row1 {
+    position: relative;
+    left: -10rem;
+    top: 5rem;
+
+}
+
+.row2 {
+    display: inline-block;
+    position: absolute;
+    top: 5rem;
+}
+
+.linkedIn {
+    position: relative;
+    right: -30rem;
+    top: 2rem;
+    height: 5rem;
+    width: 5rem;
+}
+
+.linkedIn-mobile {
+  /*   position: relative;
+    right: -30rem; */
+   /*  top: 2rem; */
+    height: 3rem;
+    width: 3rem;
+}

@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  font-family: "Times New Roman";
+  padding-bottom: 10px;
+  max-width: 100%;
+  overflow-x: hidden;  
+}
+
+
+.App-footer {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
