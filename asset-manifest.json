@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/rubra-mining/static/css/main.32334a3a.css",
+    "main.js": "/rubra-mining/static/js/main.330c6f43.js",
+    "static/js/787.6729b2b0.chunk.js": "/rubra-mining/static/js/787.6729b2b0.chunk.js",
+    "static/media/cover.jpg": "/rubra-mining/static/media/cover.a6c9365fd7d900577feb.jpg",
+    "static/media/proj.png": "/rubra-mining/static/media/proj.70d8796105a6ae0419fe.png",
+    "static/media/brilliance.jpg": "/rubra-mining/static/media/brilliance.9fe332ab748f63080e0e.jpg",
+    "static/media/expertise.jpg": "/rubra-mining/static/media/expertise.f39d2aa328eef4741b16.jpg",
+    "static/media/pitService.png": "/rubra-mining/static/media/pitService.945b1ba8d2b178be75e1.png",
+    "static/media/insights.jpg": "/rubra-mining/static/media/insights.07271635a427ec55db58.jpg",
+    "static/media/linkedin.png": "/rubra-mining/static/media/linkedin.d387e0857496348682ce.png",
+    "static/media/autonomous.png": "/rubra-mining/static/media/autonomous.9ec3452d0053d2af47f6.png",
+    "static/media/rubra_logo.png": "/rubra-mining/static/media/rubra_logo.2adbc4b0f5bf782badcb.png",
+    "static/media/Safety.jpeg": "/rubra-mining/static/media/Safety.988480a6b60018767a18.jpeg",
+    "static/media/operational.png": "/rubra-mining/static/media/operational.fab65d4caf7f0bdf5983.png",
+    "static/media/about_us_goal.jpg": "/rubra-mining/static/media/about_us_goal.7f41a55e13f1b9d6c2bd.jpg",
+    "static/media/process_ser.jpg": "/rubra-mining/static/media/process_ser.774fe96c7c815a738a41.jpg",
+    "static/media/project.png": "/rubra-mining/static/media/project.0949633e9853b54f3605.png",
+    "static/media/linkedin.svg": "/rubra-mining/static/media/linkedin.e4998566d23d0cbf2e3f87bc69c2e10e.svg",
+    "index.html": "/rubra-mining/index.html",
+    "main.32334a3a.css.map": "/rubra-mining/static/css/main.32334a3a.css.map",
+    "main.330c6f43.js.map": "/rubra-mining/static/js/main.330c6f43.js.map",
+    "787.6729b2b0.chunk.js.map": "/rubra-mining/static/js/787.6729b2b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32334a3a.css",
+    "static/js/main.330c6f43.js"
+  ]
+}
